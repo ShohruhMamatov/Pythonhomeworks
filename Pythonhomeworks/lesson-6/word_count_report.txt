@@ -1,0 +1,9 @@
+Word Count Report
+Total Words: 8
+
+Top 5 Words:
+the - 3
+list - 1
+of - 1
+employees - 1
+country - 1
