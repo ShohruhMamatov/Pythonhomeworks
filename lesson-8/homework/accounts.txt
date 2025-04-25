@@ -1,1 +1,1 @@
-{"1000": {"account_number": "1000", "name": "Doniyorbek", "balance": 51000.0, "transactions": [["2025-03-18T17:52:17.526194", "Deposit", 30000.0]]}}
+{"1000": {"account_number": "1000", "name": "Doniyorbek", "balance": 51000.0, "transactions": [["2025-03-18T17:52:17.526194", "Deposit", 30000.0]]}, "3386921980": {"account_number": "3386921980", "name": "Shohruh", "balance": 3000.0, "transactions": [["2025-04-25T11:01:17.632037", "Deposit", 1000.0]]}}
