@@ -1,0 +1,1 @@
+{"1000": {"account_number": "1000", "name": "Doniyorbek", "balance": 51000.0, "transactions": [["2025-03-18T17:52:17.526194", "Deposit", 30000.0]]}}

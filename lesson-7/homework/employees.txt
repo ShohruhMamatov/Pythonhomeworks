@@ -1,0 +1,2 @@
+1001, John Doe, Engineer, 75000
+1002, Adam, Smith, 75000.0
